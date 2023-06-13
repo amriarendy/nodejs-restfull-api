@@ -13,20 +13,22 @@
   "keywords": [
     "amriarendy",
     "belajar",
-    "belajar",
+    "belajar-nodejs",
     "nodejs",
-    "nodejs",
-    "crud",
-    "nodejs",
-    "restfull",
-    "api",
-    "nodejs",
-    "session"
+    "restfull-api",
+    "nodejs-crud"
   ],
   "author": "amriarendy",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/amriarendy/nodejs-restfull-api/issues"
   },
-  "homepage": "https://github.com/amriarendy/nodejs-restfull-api#readme"
+  "homepage": "https://github.com/amriarendy/nodejs-restfull-api#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "joi": "^17.9.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.17"
+  }
 }
