@@ -1,0 +1,32 @@
+{
+  "name": "restfull-api",
+  "version": "1.0.0",
+  "description": "Belajar nodejs restfull api",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amriarendy/nodejs-restfull-api.git"
+  },
+  "keywords": [
+    "amriarendy",
+    "belajar",
+    "belajar",
+    "nodejs",
+    "nodejs",
+    "crud",
+    "nodejs",
+    "restfull",
+    "api",
+    "nodejs",
+    "session"
+  ],
+  "author": "amriarendy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amriarendy/nodejs-restfull-api/issues"
+  },
+  "homepage": "https://github.com/amriarendy/nodejs-restfull-api#readme"
+}
