@@ -2,14 +2,23 @@
 
 ```json
   "dependencies": {
-    "axios": "^1.2.1",
+    "bcrypt": "^5.1.0",
     "express": "^4.18.2",
-    "express-fileupload": "^1.4.0",
-    "express-validator": "^6.14.2",
-    "http": "^0.0.1-security",
-    "qrcode": "^1.5.1",
-    "socket.io": "^4.5.4",
-    "whatsapp-web.js": "^1.18.4"
+    "joi": "^17.9.2",
+    "uuid": "^9.0.0",
+    "winston": "^3.9.0"
+  }
+  "devDependencies": {
+    "@babel/preset-env": "^7.22.5",
+    "@types/bcrypt": "^5.0.0",
+    "@types/express": "^4.17.17",
+    "@types/jest": "^29.5.2",
+    "@types/supertest": "^2.0.12",
+    "@types/uuid": "^9.0.2",
+    "babel-jest": "^29.5.0",
+    "jest": "^29.5.0",
+    "prisma": "^4.15.0",
+    "supertest": "^6.3.3"
   }
 ```
 
