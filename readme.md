@@ -1,3 +1,11 @@
+### cara install
+
+npm update atau npm install
+
+buat database nodejs_restfull_api atau bisa ganti database dengan di .env pada bagian ini DATABASE_URL="mysql://root:@localhost:3306/nodejs_restfull_api"
+
+jalankan perintah di terminal dengan npx prisma migrate dev
+
 ### node packages
 
 ```json
