@@ -6,6 +6,8 @@ buat database nodejs_restfull_api atau bisa ganti database dengan di .env pada b
 
 jalankan perintah di terminal dengan npx prisma migrate dev
 
+cara menjalankan node /src/main.js/
+
 ### node packages
 
 ```json
